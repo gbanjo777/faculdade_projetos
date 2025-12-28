@@ -1,0 +1,1 @@
+//indetação é importante para a legibilidade do código, pois ajuda a visualizar a estrutura do programa e a identificar blocos de código relacionados.
