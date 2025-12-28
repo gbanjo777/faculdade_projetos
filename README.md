@@ -81,6 +81,6 @@ Exemplos:
 
 **Gabriel**  
 Estudante de Ciência da Computação  
-GitHub: https://github.com/seu-usuario
+GitHub: https://github.com/gbanjo777
 
 ---
