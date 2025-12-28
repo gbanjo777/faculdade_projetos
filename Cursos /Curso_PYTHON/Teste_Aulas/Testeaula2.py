@@ -1,0 +1,1 @@
+(lambda f, i: f(f, i))(lambda f, i: i and (print(i), f(f, i-1)), 3)
